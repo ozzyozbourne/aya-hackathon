@@ -2,6 +2,8 @@
 
 > A hackathon project demonstrating a full-stack implementation of the Model Context Protocol (MCP) from scratch, featuring a tool-augmented AI agent powered by Google's Gemini API with real-time cryptocurrency price aggregation.
 
+![Demo](aya.gif)
+
 ## What Makes This Project Special
 
 This isn't just another AI chatbot - it's a **production-ready demonstration** of modern AI agent architecture:
